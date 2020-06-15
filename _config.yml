@@ -9,8 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Bjørn-Jostein Singstad 
-email: bjorn_sing@hotmail.com
+owner: 
+email: 
 facebook_username:
 twitter_username:
 github_username: Bsingstad
